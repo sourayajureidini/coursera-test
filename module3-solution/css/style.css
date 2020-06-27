@@ -1,1 +1,93 @@
 
+* {
+	font-family: 'Comfortaa', cursive;
+
+}
+
+h1 {
+	color: black;
+	font-weight: 500;
+	text-align: center;
+	font-size: 60px;
+}
+
+
+body { 
+	font-size: 32px;
+ }
+
+.row { 
+color: black;
+}
+
+h1 { 
+padding: 20px; 
+}
+
+h2 {
+	text-align: center;
+	font-weight: 200;
+	font-size: 40px;
+	border: 1px solid;
+	padding: 20px;
+}
+
+.menu-container { 
+border: 1px solid;
+padding: 20px;
+margin-bottom: 10px;}
+
+.title { 
+padding: 10px;
+text-align: center; }
+
+/* .row .title {
+	border: 1px solid;
+	width: 100%;
+ }
+
+*/
+
+#menu1 { 
+background-color: yellow;
+}
+
+#menu2 { 
+background-color: yellow;
+}
+
+#menu3 { 
+background-color: yellow;
+}
+
+p { 
+
+ padding: 10px;
+ font-weight: 500; 
+ display: flex;
+ text-align: center;
+}
+
+
+
+.jumbotron {
+display: flex;
+justify-content: center;
+text-align: center;
+border: 1px solid;
+height: 80%;
+background-color: yellow; 
+}
+
+#promo { 
+ background-color: yellow; 
+}
+
+p { 
+background-color: lightpink;
+border: 1px solid;
+margin: 10px;
+}
+
+
+
