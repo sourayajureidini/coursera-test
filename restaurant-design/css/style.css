@@ -1,0 +1,52 @@
+* {
+box-sizing: border-box;
+}
+
+body { 
+background-color: #61122f;
+font-family: 'Comfortaa', cursive;
+font-weight: 300;
+ }
+
+/** HEADER **/ 
+#header-nav {
+background-color: #F1EBE5;
+height: 190px;
+}
+
+/** logo **/ 
+.navbar-brand {
+width: 150px;
+height: 150px;
+margin: 0px 15px 10px;
+}
+
+/** logo **/ 
+#logo-img {
+width: 150px;
+height: 150px;
+margin: 0px 15px 10px;
+}
+
+h1 { 
+color: black;
+margin-left: 5px;
+text-shadow: 1px 1px 1px;
+width: 100%;
+}
+
+.kosher {
+font-size: 35px;
+color:black;
+text-shadow: 1px;
+margin-left: 
+} 
+
+#img-kosher { 
+margin-right: 20px; }
+
+/** kosher sign **/ 
+.kosher span { 
+vertical-align: middle;
+
+ }

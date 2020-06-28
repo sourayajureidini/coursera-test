@@ -11,9 +11,26 @@ h1 {
 	font-size: 60px;
 }
 
+.navbar { 
+background-color: yellow; 
+}
+
+
+.nav-item {
+	color: black;
+	font-size: 30px;
+}
+
+
+.nav-item:hover {
+	color: pink;
+}
+
+div.company-name.navbar-brand { 
+font-size: 30px; }
 
 body { 
-	font-size: 32px;
+	font-size: 20px;
  }
 
 .row { 
@@ -24,12 +41,29 @@ h1 {
 padding: 20px; 
 }
 
+a { 
+text-align: center;
+ }
+button.navbar-toggler { 
+background-color: yellow;
+border: 1px black solid;
+width: 75px;
+height: 45px;
+ }
+
 h2 {
 	text-align: center;
 	font-weight: 200;
 	font-size: 40px;
 	border: 1px solid;
 	padding: 20px;
+	text-decoration: none;
+	color: black;
+	background-color: yellow;
+}
+
+a:hover {
+	text-decoration: none;
 }
 
 .menu-container { 
@@ -50,10 +84,12 @@ text-align: center; }
 
 #menu1 { 
 background-color: yellow;
+text-align: center
 }
 
 #menu2 { 
 background-color: yellow;
+text-align: center
 }
 
 #menu3 { 
@@ -84,10 +120,14 @@ background-color: yellow;
 }
 
 p { 
-background-color: lightpink;
+background-color: none;
+color: black;
 border: 1px solid;
 margin: 10px;
+
 }
+
+
 
 
 
