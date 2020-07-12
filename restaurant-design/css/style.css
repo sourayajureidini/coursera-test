@@ -3,50 +3,67 @@ box-sizing: border-box;
 }
 
 body { 
-background-color: #61122f;
 font-family: 'Comfortaa', cursive;
 font-weight: 300;
  }
 
-/** HEADER **/ 
-#header-nav {
-background-color: #F1EBE5;
-height: 190px;
+#logo { 
+padding: 10px; }
+
+.navbar-text { 
+margin-left: 10px;
 }
 
-/** logo **/ 
-.navbar-brand {
-width: 150px;
-height: 150px;
-margin: 0px 15px 10px;
+
+h1.container-kosher { 
+size: 60px; }
+
+#kosher-certified { 
+margin-top: 10px; 
 }
 
-/** logo **/ 
-#logo-img {
-width: 150px;
-height: 150px;
-margin: 0px 15px 10px;
-}
+#restaurant-name { 
+margin-left: 20px;
+vertical-align: middle;
+ }
+
+
+.container-kosher { 
+ font-size: 30px;
+ margin-top:10px: 
+ }
 
 h1 { 
-color: black;
-margin-left: 5px;
-text-shadow: 1px 1px 1px;
-width: 100%;
+margin-bottom:  10px; }
+
+
+#subtitle { 
+font-size: 30px; 
+margin-top: 10px;
+line-height: 5;}
+
+#kosher-certified { 
+line-height: 2; 
+font-size: 20px;
 }
 
-.kosher {
-font-size: 35px;
-color:black;
-text-shadow: 1px;
-margin-left: 
-} 
+.navbar-text h1 {
+font-size: 40px; 
+margin-bottom: 0;
+line-height: 1;
+}
 
-#img-kosher { 
-margin-right: 20px; }
+h1 #kosher-certified {
+font-size: 30px;
 
-/** kosher sign **/ 
-.kosher span { 
-vertical-align: middle;
+}
 
- }
+#subtitle { 
+vertical-align: middle;}
+
+
+nav  {
+background-color: beige;
+border: 1px solid black;
+margin: 10px;
+}
